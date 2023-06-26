@@ -5,8 +5,6 @@
 ## Ferramentas utilizadas:
 
 * JavaScript
-* HTML
-* CSS
 
 ## Feito por:
 
